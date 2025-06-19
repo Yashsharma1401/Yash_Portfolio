@@ -74,8 +74,8 @@ const Sidebar = ({ isOpen }) => {
         
 
         <div className="flex justify-center gap-6 mb-5 mt-3">
-          <a href="https://www.linkedin.com/in/yashsharma14jan" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-[#0A66C2] transition-transform duration-300 hover:scale-125 text-2xl" aria-label="LinkedIn"><FaLinkedinIn /></a>
-          <a href="https://github.com/yashsharma14jan" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-transform duration-300 hover:scale-125 text-2xl" aria-label="GitHub"><FaGithub /></a>
+          <a href="https://www.linkedin.com/in/yash-sharma1401/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-[#0A66C2] transition-transform duration-300 hover:scale-125 text-2xl" aria-label="LinkedIn"><FaLinkedinIn /></a>
+          <a href="https://github.com/Yashsharma1401/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-transform duration-300 hover:scale-125 text-2xl" aria-label="GitHub"><FaGithub /></a>
         </div>
         
         <a
